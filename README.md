@@ -1,6 +1,6 @@
 # Hello :)
 
-My name is Antônio Evaldo, I'm an Electrical Engineering student ⚡ at Universidade Federal do Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course. I'm currently learning the basics of Web Development and I'm passionate about it! Now I'm always learning new technologies and programming languages, looking to get more and more integrated into the world of programming and meet new people in this area, besides looking for learning and career opportunities.
+My name is Antônio Evaldo, I'm an Electrical Engineering student ⚡ at the Federal University of Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course. I'm currently learning the basics of Web Development and I'm passionate about it! Now I'm always learning new technologies and programming languages, looking to get more and more integrated into the world of programming and meet new people in this area, besides looking for learning and career opportunities.
 
  <br/> I started working on a private project of my university, an internal management system which uses technologies such as HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and MySQL, at the same time I'm always studying them. I recently started learning React.js and I plan to learn more about Back-end since my goal is to be a qualified Full Stack Developer.
  
