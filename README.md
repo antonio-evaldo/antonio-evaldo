@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello :)
+
+My name is Antônio Evaldo, I'm an Electrical Engineering student at Universidade Federal do Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course. I'm currently learning the basics of Web Development and I'm passionate about it! Now I'm always learning new technologies and programming languages, looking to get more and more integrated into the world of programming and meet new people in this area, besides looking for learning and career opportunities.
+
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-AntônioEvaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-antonioevaldo349@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonioevaldo349@gmail.com)](mailto:antonioevaldo349@gmail.com)
 
 <!--
 **antonio-evaldo/antonio-evaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
