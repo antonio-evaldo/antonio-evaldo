@@ -1,26 +1,12 @@
 # Hello :)
 
-My name is Antônio Evaldo, I'm an Electrical Engineering student ⚡ at the Federal University of Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course. I entered the world of Web Development in early 2020 and I fell in love! Now I'm always learning new technologies and programming languages, looking for getting more and more integrated into the world of programming and meet new people in this area, besides looking for learning and career opportunities.
+My name is Antônio Evaldo, I'm an Electrical Engineering student ⚡ at the Federal University of Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course.
 
- <br/> I currently maintain a private project of my university, an internal management system which uses technologies such as HTML, CSS, Bootstrap, JavaScript, jQuery, PHP and MySQL, at the same time I'm always studying them. I recently started learning ReactJS, NodeJS and React Native and I plan to improve my back-end knowledge, since my current goal is to be a qualified Full Stack Developer.
+I entered the world of web development in early 2020 to maintain a private project of my university, an internal management system made with the basic front-end technologies with Bootstrap and Jquery, and PHP and SQL in the back-end. Since then I fell in love for this world and also started studying other technologies in my free time.
+
+My current focus is on front-end, mainly React, which I have basic domain, and I'm occasionaly looking for learning more about the Javascript ecossistem (for example Next.js), as well as to keep practicing my programming skills.
  
- <br /> This is it, don't mind my English since it's not my native language and thanks for reading all the way until here 😊
+This is it, don't mind my English since it's not my native language and thanks for reading all the way until here 😊
 
- <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/) 
-| 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonioevaldo349@gmail.com)](mailto:antonioevaldo349@gmail.com)
-
-<!--
-**antonio-evaldo/antonio-evaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
