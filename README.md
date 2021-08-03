@@ -10,3 +10,5 @@ This is it, don't mind my English since it's not my native language and thanks f
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonioevaldo349@gmail.com)](mailto:antonioevaldo349@gmail.com)
+
+![Snake animation](https://github.com/antonio-evaldo)
