@@ -1,12 +1,16 @@
 # Hello :)
 
-My name is Antônio Evaldo, I'm an Electrical Engineering student ⚡ at the Federal University of Piauí (UFPI) and member of the Tutorial Education Program (PET) of the Electrical Engineering course.
+My name is Antônio Evaldo, I'm an Electrical Engineering student at the Federal University of Piauí (UFPI) and an intern of the Scuba Team at Alura.
 
-I entered the world of web development in early 2020 to maintain a private project of my university, an internal management system made with the basic front-end technologies with Bootstrap and Jquery, and PHP and SQL in the back-end. Since then I fell in love for this world and also started studying other technologies in my free time.
+I entered the world of web development in early 2020 to maintain a private project of my university, learning and praticing the basics of front-end and back-end. Since then I fell in love for the world of technology.
 
-My current focus is on front-end, mainly React, which I have basic domain, and I'm occasionaly looking for learning more about the Javascript ecossistem (for example Next.js), as well as to keep practicing my programming skills.
- 
-This is it, don't mind my English since it's not my native language and thanks for reading all the way until here 😊
+At Alura I'm really glad to pratice my knowlodge and to help other people to enter this world. Teaching others is a lovely way to learn more and go farther.
+
+## Technologies
+
+- Javascript
+- React
+- Typescript
+- HTML & CSS
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonioevaldo349@gmail.com)](mailto:antonioevaldo349@gmail.com)
