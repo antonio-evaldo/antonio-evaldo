@@ -8,9 +8,21 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ## Technologies
 
+### Basis technologies:
+
 - Javascript
-- React
-- Typescript
 - HTML & CSS
+
+### Currently working with:
+
+- Svelte
+- Typescript
+- Axios
+
+### Already studied:
+
+- React
+- Vue 3
+- Angular
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
