@@ -1,6 +1,6 @@
 # Hello :)
 
-My name is Antônio Evaldo, I'm an Electrical Engineering student at the Federal University of Piauí (UFPI) and an intern of the Scuba Team at Alura.
+My name is Antônio Evaldo, I'm an Electrical Engineering student at the Federal University of Piauí (UFPI) and instructor at the Front-end School of Alura.
 
 I entered the world of web development in early 2020 to maintain a private project of my university, learning and praticing the basics of front-end and back-end. Since then I fell in love for the world of technology.
 
