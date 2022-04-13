@@ -15,9 +15,8 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ### Currently working with:
 
-- Svelte
+- Sveltekit
 - Typescript
-- Axios
 
 ### Already studied:
 
