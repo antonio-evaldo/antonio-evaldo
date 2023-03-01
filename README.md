@@ -12,18 +12,21 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 - React
 - NodeJS
+- MongoDB
 - TypeScript
 
 ### Currently working with:
 
 - NodeJS
-- Socket.IO
-- MongoDB
+- Serverless Framework
 
 ### Already studied:
 
 - Vue 3
 - Angular
 - SvelteKit
+- REST APIs with Express
+- Mongoose, Sequelize
+- Socket.IO
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
