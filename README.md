@@ -11,14 +11,14 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 ### Main technologies:
 
 - React
-- NodeJS
+- Node.js
 - MongoDB
 - TypeScript
 
 ### Currently working with:
 
-- NodeJS
-- Serverless Framework
+- Node.js
+- NestJS
 
 ### Already studied:
 
@@ -28,5 +28,6 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 - REST APIs with Express
 - Mongoose, Sequelize
 - Socket.IO
+- Serverless Framework
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
