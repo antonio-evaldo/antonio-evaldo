@@ -17,17 +17,16 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ### Currently working with:
 
-- Node.js
-- NestJS
+- Vue 3
 
 ### Already studied:
 
-- Vue 3
 - Angular
 - SvelteKit
-- REST APIs with Express
+- REST APIs with Node.js and Express
+- NestJS
 - Mongoose, Sequelize
 - Socket.IO
 - Serverless Framework
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-evaldo/)](https://www.linkedin.com/in/antonio-evaldo/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-evaldo/)
