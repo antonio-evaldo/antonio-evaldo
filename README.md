@@ -10,22 +10,23 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ### Main technologies:
 
-- React
+- React, Vue 3
 - Node.js
-- MongoDB
 - TypeScript
 
 ### Currently working with:
 
-- Vue 3
+- Accessibility 
 
 ### Already studied:
 
 - Angular
-- SvelteKit
+- Svelte
+- Unit tests with Jest, Jasmine
 - REST APIs with Node.js and Express
 - NestJS
 - Mongoose, Sequelize
+- MongoDB, PostgreSQL
 - Socket.IO
 - Serverless Framework
 
