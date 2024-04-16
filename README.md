@@ -16,10 +16,12 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ### Currently working with:
 
-- Accessibility 
+- E2E Tests with Playwright and Angular
+- Nx with Angular and Storybook
 
 ### Already studied:
 
+- Accessibility (WCAG)
 - Angular
 - Svelte
 - Unit tests with Jest, Jasmine
