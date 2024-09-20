@@ -16,14 +16,15 @@ At Alura I'm really glad to pratice my knowlodge and to help other people to ent
 
 ### Currently working with:
 
-- E2E Tests with Playwright and Angular
 - Nx with Angular and Storybook
+- State management in React (Zustand, Recoil and Redux)
 
 ### Already studied:
 
-- Accessibility (WCAG)
 - Angular
 - Svelte
+- Accessibility (WCAG)
+- E2E Tests with Playwright and Angular
 - Unit tests with Jest, Jasmine
 - REST APIs with Node.js and Express
 - NestJS
