@@ -9,6 +9,7 @@ I previously was a Instructor at Alura and created more than 20 courses of web d
 ## Technologies I'm currently working with:
 
 - HTML, CSS, JavaScript, PHP
+- Migrating Alura websites to Next, Tailwind, Turborepo and Jest
 
 ## Already studied:
 
